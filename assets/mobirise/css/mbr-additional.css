@@ -704,7 +704,7 @@ a {
 .cid-siBhETW4Fe {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-siBhETW4Fe .oldcost {
   text-decoration: line-through;
@@ -715,7 +715,7 @@ a {
 }
 .cid-siBhETW4Fe .card-wrapper {
   border-radius: 4px;
-  background: #fafafa;
+  background: #efefef;
 }
 @media (min-width: 992px) {
   .cid-siBhETW4Fe .text-box {
@@ -742,10 +742,36 @@ a {
   padding-bottom: 5rem;
   background-image: url("../../../assets/images/inigo-de-la-maza-s285sdw5ikc-unsplash-2000x1333.jpg");
 }
+.cid-slNBV6L1dx {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-slwa6JjYCP {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-slwa6JjYCP img {
+  width: 50px;
+  margin: auto;
+}
+.cid-slwa6JjYCP .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-slwa6JjYCP .card {
+    max-width: 6%;
+  }
+}
 .cid-siBhq7eIFP {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-siBhq7eIFP .content {
